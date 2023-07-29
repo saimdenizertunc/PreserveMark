@@ -1,5 +1,5 @@
 
-```
+
 # PreserveMark
 
 PreserveMark is a markdown processing tool designed to convert markdown text to HTML while preserving specified sections intact.
@@ -8,14 +8,15 @@ PreserveMark is a markdown processing tool designed to convert markdown text to 
 
 Clone the PreserveMark repository to your local machine:
 
-```bash
+```
 git@github.com:saimdenizertunc/PreserveMark.git
 cd PreserveMark
 ```
 
+
 Then, install the required dependencies:
 
-```bash
+```
 npm install
 ```
 
